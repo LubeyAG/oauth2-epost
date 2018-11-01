@@ -1,5 +1,5 @@
 {
-  "name": "richardhj/oauth2-epost",
+  "name": "lubeyag/oauth2-epost",
   "description": "E-POSTBUSINESS OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "license": "LGPL-3.0+",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "require": {
     "php": "^5.4 || ^7.0",
-    "league/oauth2-client": "~1.4"
+    "league/oauth2-client": "^2.0"
   },
   "autoload": {
     "psr-4": {
